@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umesh madhuranga</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
+<img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=996&t=st=1676088778~exp=1676089378~hmac=874b77c22117fe97737154268c4665a726cd6a6d53c22c7638a8a840941f57ea">
 - 🌱 I’m currently learning **Internet Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UmeshMadhuranga/MyProfile](https://github.com/UmeshMadhuranga/MyProfile)
